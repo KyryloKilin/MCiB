@@ -21,3 +21,19 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+### :man_technologist: About Me :
+I run a nodes on testnets (also as a validator) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with experience in QA/QC (sertified) from Ukraine.
+
+---
+
+### :writing_hand: Blog Posts :
+https://medium.com/@mycoinisbitcoin/how-to-farm-guide-to-farming-on-the-subspace-network-636aca633996
+
+
+
