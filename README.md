@@ -14,4 +14,4 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?KyryloKilin=your-github-username&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?KyryloKilin=your-github-KyryloKilin&style=flat-square&color=blue" alt=""/>
