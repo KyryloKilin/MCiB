@@ -28,7 +28,7 @@
 
 ---
 ### :man_technologist: About Me :
-I run a nodes on testnets (also as a validator) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with experience in QA/QC (sertified) from Ukraine.
+I run a nodes on testnets (also as a validator) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with experience in QA/QC (certified) from Ukraine.
 
 ---
 
