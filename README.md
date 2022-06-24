@@ -43,8 +43,8 @@ https://medium.com/@mycoinisbitcoin/%D0%BE%D0%B1%D0%B7%D0%BE%D1%80-%D1%81%D0%B5%
 https://medium.com/@mycoinisbitcoin/overview-of-services-for-analysis-8fc32520a79d
 https://medium.com/@mycoinisbitcoin/will-subspace-network-have-its-own-token-16138f870274
 https://medium.com/@mycoinisbitcoin/anz-bank-joins-forta-network-56e6f2a3e6ba
-
-
+https://medium.com/@mycoinisbitcoin/discover-the-nezha-ecosystem-1ddf43b00a41
+https://medium.com/@mycoinisbitcoin/what-is-the-nezha-draw-9dfc53f233d0
 
 
 
